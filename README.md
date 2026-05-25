@@ -18,6 +18,7 @@ Aplikasi web **SIMS PPOB-Adityo** dibangun menggunakan React.js + Redux Toolkit,
 5. Pembayaran layanan
 6. Riwayat Transaksi (dengan show more pagination)
 7. Lihat & Edit Profil
+8. Update foto profil (maks 100KB)
 9. Logout
 
 ## Setup & Menjalankan Aplikasi
