@@ -14,7 +14,7 @@ Aplikasi web **SIMS PPOB-Adityo** dibangun menggunakan React.js + Redux Toolkit,
 1. Registrasi akun
 2. Login dengan JWT token
 3. Dashboard (Saldo, Services, Banner)
-4. Top Up saldo (Rp10.000 – Rp500.000)
+4. Top Up saldo (Rp10.000 – Rp1.000.000)
 5. Pembayaran layanan
 6. Riwayat Transaksi (dengan show more pagination)
 7. Lihat & Edit Profil
